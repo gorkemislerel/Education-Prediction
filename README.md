@@ -39,7 +39,7 @@ Uygulama, kullanıcıdan aşağıdaki göstergeler için giriş alır:
 
 
 ---
-### Education Prediction
+# Education Prediction
 
 ## HOW TO RUN THE APPLICATION?
 Clone the repository and open the project folder to run it.
